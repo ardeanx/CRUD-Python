@@ -175,11 +175,11 @@ class CRUDApp:
         self.entry_age.delete(0, END)
         self.entry_email.delete(0, END)
 
-# Run the Tkinter application
+# Jalankan Aplikasi Tkinter
 if __name__ == "__main__":
     root = Tk()
     app = CRUDApp(root)
     root.mainloop()
 
-# Close the database connection when the GUI is closed
+# Menutup Koneksi Database ketika keluar aplikasi
 app.conn.close()
