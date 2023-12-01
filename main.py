@@ -6,8 +6,8 @@ from tkinter import Tk, Label, Entry, Button, ttk, Scrollbar, END, messagebox, F
 class CRUDApp:
     def __init__(self, master):
         self.master = master
-        master.title("Python CRUD")
-        master.iconbitmap("C:/Users/ardea/Documents/GitHub/CRUD Python/logo.ico")
+        master.title("Python CRUD") # Nama Aplikasi
+        master.iconbitmap("C:/Users/ardea/Documents/GitHub/CRUD Python/logo.ico") # Ubah PATH ini ke direktori dimana logo anda berada, jangan lupa untuk logo pake ekstensi .ico
 
         # Konfigurasi Database menggunakan SQLite3
         self.conn = sqlite3.connect('database.db')
