@@ -2,6 +2,8 @@
 ![Logo](https://i.ibb.co/z4kkh5G/logo.png)
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
+<p><a href="https://www.buymeacoffee.com/ardean"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ardean" /></a><a href="https://ko-fi.com/ardean"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ardean" /></a></p><br><br>
+
 # Python CRUD App
 
 Sebuah program CRUD lengkap, rapi, dan sederhana dibuat menggunakan bahasa pemrograman Python. Project ini bebas anda gunakan dan modifikasi sesuai dengan keinginan.
