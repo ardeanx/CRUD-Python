@@ -9,7 +9,7 @@ Sebuah program CRUD lengkap, rapi, dan sederhana dibuat menggunakan bahasa pemro
 
 ## Screenshots
 
-![App Screenshot](https://www.veed.io/view/81d66d13-8cc0-49f5-9936-34f0368184e2?sharingWidget=true&panel=share)
+<iframe src="https://www.veed.io/embed/81d66d13-8cc0-49f5-9936-34f0368184e2" width="744" height="504" frameborder="0" title="Python.mp4" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
 ## Fitur
